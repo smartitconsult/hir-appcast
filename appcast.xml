@@ -3,16 +3,16 @@
     <channel>
         <title>House In Rwanda App - Appcast</title>
         <item>
-            <title>Version 1.0.27</title>
+            <title>Version 1.0.28</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sat, 14 Jan 2024 10:30:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="1.0.27" sparkle:os="android" />
+            <pubDate>Sat, 15 Jan 2024 19:30:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="1.0.28" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.0.27</title>
+            <title>Version 1.0.28</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sat, 14 Jan 2024 10:30:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="1.0.27" sparkle:os="ios" />
+            <pubDate>Sat, 15 Jan 2024 19:30:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="1.0.28" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
