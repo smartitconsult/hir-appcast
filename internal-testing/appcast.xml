@@ -3,10 +3,10 @@
     <channel>
         <title>House in Rwanda Mobile App Cast</title>
         <item>
-            <title>Version </title>
+            <title>Version 1.0.33</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Tue, 23 Jan 2024 11:14:15 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="" sparkle:os="android" />
+            <pubDate>Tue, 23 Jan 2024 11:21:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="1.0.33" sparkle:os="android" />
         </item>
     </channel>
 </rss>
