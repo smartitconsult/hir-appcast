@@ -3,12 +3,12 @@
     <channel>
         <title>House In Rwanda App - Appcast</title>
         <item>
-            <title>Version 1.0.37</title>
-            <description>🔥 Fixed advert posting 🔥</description>
-            <pubDate>Feb, 05 Jan 2024 12:15:00 +0000</pubDate>
+            <title>Version 1.0.38</title>
+            <description>🔥 Minor improvements and bug fixes 🔥</description>
+            <pubDate>Feb, 08 Jan 2024 14:32:00 +0000</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda"
-                sparkle:version="1.0.37" sparkle:os="android" />
+                sparkle:version="1.0.38" sparkle:os="android" />
         </item>
         <item>
             <title>Version 1.0.37</title>
