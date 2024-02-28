@@ -4,10 +4,11 @@
     <channel>
         <title>House in Rwanda Mobile App Cast</title>
         <item>
-            <title>Version 1.2.0</title>
+            <title>Version 1.2.1</title>
             <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>Feb, 23 Jan 2024 22:08:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304" sparkle:version="1.2.0" sparkle:os="android" />
+            <pubDate>Feb, 28th 2024 23:50:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304"
+                sparkle:version="1.2.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
