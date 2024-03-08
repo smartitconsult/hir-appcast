@@ -4,10 +4,11 @@
     <channel>
         <title>House in Rwanda Mobile App Cast</title>
         <item>
-            <title>Version 1.2.5</title>
-            <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>March, 01 Jan 2024 13:40:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304" sparkle:version="1.2.5" sparkle:os="android" />
+            <title>Version 1.2.7</title>
+            <description>🔥 Enable to upload images biggern than 2MB🔥</description>
+            <pubDate>March, 08 Jan 2024 19:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304"
+                sparkle:version="1.2.7" sparkle:os="android" />
         </item>
     </channel>
 </rss>
