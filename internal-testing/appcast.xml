@@ -4,11 +4,12 @@
     <channel>
         <title>House in Rwanda Mobile App Cast</title>
         <item>
-            <title>Version 1.2.7</title>
-            <description>🔥 Enable to upload images biggern than 2MB🔥</description>
-            <pubDate>March, 08 Jan 2024 19:00:00 +0000</pubDate>
+            <title>Version 1.2.8</title>
+            <description>🔥 Enable to upload images bigger than 2MB + Show loading spinner when
+                uploading pictures in the app 🔥</description>
+            <pubDate>March, 10th 2024 22:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304"
-                sparkle:version="1.2.7" sparkle:os="android" />
+                sparkle:version="1.2.8" sparkle:os="android" />
         </item>
     </channel>
 </rss>
