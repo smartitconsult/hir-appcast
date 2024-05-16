@@ -4,10 +4,10 @@
     <channel>
         <title>House in Rwanda Mobile App Cast</title>
         <item>
-            <title>Version 1.4.6</title>
-            <description>🔥 Posting advert in background processes 🔥</description>
-            <pubDate>May, 9th 2024 12:25:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304" sparkle:version="1.4.6" sparkle:os="android" />
+            <title>Version 1.4.4</title>
+            <description>🔥 Fix version issues 🔥</description>
+            <pubDate>May, 16th 2024 14:28:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304" sparkle:version="1.4.4" sparkle:os="android" />
         </item>
     </channel>
 </rss>
