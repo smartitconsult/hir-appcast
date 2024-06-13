@@ -6,19 +6,19 @@
         
         <!-- Android Version -->
         <item>
-            <title>Version 1.4.5</title>
-            <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>May, 23rd 2024 15:52:00 +0000</pubDate>
+            <title>Version 1.4.6</title>
+            <description>🔥 Improved posting advert performance and add additional contact details 🔥</description>
+            <pubDate>June, 13th 2024 12:57:00 +0000</pubDate>
             <!-- <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304" sparkle:version="1.4.5" sparkle:os="android" /> -->
-            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="1.4.5" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="1.4.6" sparkle:os="android" />
         </item>
 
         <!-- iOS Version -->
         <item>
-            <title>Version 1.4.5</title>
-            <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>May, 31st 2024 15:52:00 +0000</pubDate>
-            <enclosure url="https://testflight.apple.com/join/HpsrH9iO" sparkle:version="1.4.5" sparkle:os="ios" />
+            <title>Version 1.4.6</title>
+            <description>🔥 Improved posting advert performance and add additional contact details 🔥</description>
+            <pubDate>June, 13th 2024 12:57:00 +0000</pubDate>
+            <enclosure url="https://testflight.apple.com/join/HpsrH9iO" sparkle:version="1.4.6" sparkle:os="ios" />
         </item>
         
     </channel>
