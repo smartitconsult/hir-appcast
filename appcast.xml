@@ -14,10 +14,10 @@
 
         <!-- iOS Version -->
         <item>
-            <title>Version 1.4.5</title>
+            <title>Version 1.4.6</title>
             <description>🔥 Fix the image's submission in background processes 🔥</description>
             <pubDate>June, 20th 2024 12:44:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/house-in-rwanda/id6478082664" sparkle:version="1.4.5" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/us/app/house-in-rwanda/id6478082664" sparkle:version="1.4.6" sparkle:os="ios" />
         </item>
         
     </channel>
