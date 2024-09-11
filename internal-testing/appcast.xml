@@ -6,10 +6,10 @@
         
         <!-- Android Version -->
         <item>
-            <title>Version 1.5.2</title>
+            <title>Version 1.5.3</title>
             <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>Sept, 9th 2024 18:19:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304" sparkle:version="1.5.2" sparkle:os="android" />
+            <pubDate>Sept, 11th 2024 16:10:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304" sparkle:version="1.5.3" sparkle:os="android" />
         </item>
 
         <!-- iOS Version -->
