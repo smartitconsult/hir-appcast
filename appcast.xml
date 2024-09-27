@@ -6,18 +6,18 @@
         
         <!-- Android Version -->
         <item>
-            <title>Version 1.4.8</title>
-            <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>July, 5th 2024 09:09:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="1.4.8" sparkle:os="android" />
+            <title>Version 2.0.0</title>
+            <description>🔥 🔥 Authentication, user profile and bug fixes 🔥 🔥</description>
+            <pubDate>Sept, 27th 2024 11:32:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="2.0.0" sparkle:os="android" />
         </item>
 
         <!-- iOS Version -->
         <item>
-            <title>Version 1.4.8</title>
-            <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>July, 5th 2024 09:09:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/house-in-rwanda/id6478082664" sparkle:version="1.4.8" sparkle:os="ios" />
+            <title>Version 2.0.0</title>
+            <description>🔥 Authentication, user profile and bug fixes 🔥</description>
+            <pubDate>Oct, 18th 2024 08:25:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/house-in-rwanda/id6478082664" sparkle:version="2.0.0" sparkle:os="ios" />
         </item>
         
     </channel>
