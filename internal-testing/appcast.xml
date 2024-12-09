@@ -2,22 +2,22 @@
 <rss version="2.0"
     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>House In Rwanda App - Appcast</title>
+        <title>Alanfal App - Appcast</title>
         
         <!-- Android Version -->
         <item>
-            <title>Version 2.0.6</title>
+            <title>Version 1.1.5</title>
             <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>Nov, 20th 2024 12:17:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304" sparkle:version="2.0.6" sparkle:os="android" />
+            <pubDate>Jan, 22nd 2025 15:44:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/apps/internaltest/4701333679964912411" sparkle:version="1.1.5" sparkle:os="android" />
         </item>
 
         <!-- iOS Version -->
         <item>
-            <title>Version 2.0.5</title>
+            <title>Version 1.1.5</title>
             <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>Nov, 20th 2024 12:16:00 +0000</pubDate>
-            <enclosure url="https://testflight.apple.com/join/HpsrH9iO" sparkle:version="2.0.5" sparkle:os="ios" />
+            <pubDate>Jan, 22nd 2025 15:44:00 +0000</pubDate>
+            <enclosure url="https://testflight.apple.com/join/q2DvGzny" sparkle:version="1.1.5" sparkle:os="ios" />
         </item>
         
     </channel>
