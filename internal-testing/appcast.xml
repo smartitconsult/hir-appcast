@@ -6,10 +6,10 @@
         
         <!-- Android Version -->
         <item>
-            <title>Version 2.0.8</title>
-            <description>🔥 Background notifications for chat feature 🔥</description>
-            <pubDate>Jan, 10th 2025 20:33:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304" sparkle:version="2.0.8" sparkle:os="android" />
+            <title>Version 2.0.9</title>
+            <description>🔥 Enhanced chat notifications feature 🔥</description>
+            <pubDate>Jan, 16th 2025 10:30:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/apps/internaltest/4701227767224563304" sparkle:version="2.0.9" sparkle:os="android" />
         </item>
 
         <!-- iOS Version -->
