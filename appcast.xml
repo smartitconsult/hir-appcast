@@ -2,22 +2,22 @@
 <rss version="2.0"
     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>House In Rwanda App - Appcast</title>
+        <title>Smart Mobile Suite App - Appcast</title>
         
         <!-- Android Version -->
         <item>
-            <title>Version 2.0.6</title>
+            <title>Version 1.1.0</title>
             <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>Thu, 28th 2024 09:27:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="2.0.6" sparkle:os="android" />
+            <pubDate>Jan, 23rd 2025 09:43:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/apps/internaltest/4701333679964912411" sparkle:version="1.1.0" sparkle:os="android" />
         </item>
 
         <!-- iOS Version -->
         <item>
-            <title>Version 2.0.6</title>
+            <title>Version 1.1.0</title>
             <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>Thu, 28th 2024 09:27:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/house-in-rwanda/id6478082664" sparkle:version="2.0.6" sparkle:os="ios" />
+            <pubDate>Jan, 23rd 2025 09:43:00 +0000</pubDate>
+            <enclosure url="https://testflight.apple.com/join/q2DvGzny" sparkle:version="1.1.0" sparkle:os="ios" />
         </item>
         
     </channel>
