@@ -6,18 +6,18 @@
         
         <!-- Android Version -->
         <item>
-            <title>Version 1.1.5</title>
-            <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>Jan, 22nd 2025 15:44:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/apps/internaltest/4701333679964912411" sparkle:version="1.1.5" sparkle:os="android" />
+            <title>Version 1.2.3</title>
+            <description>⭐️ Minor improvements & bug fixes ⭐️</description>
+            <pubDate>Feb, 4th 2025 09:46:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/apps/internaltest/4699505371243559033" sparkle:version="1.2.3" sparkle:os="android" />
         </item>
 
         <!-- iOS Version -->
         <item>
-            <title>Version 1.1.5</title>
-            <description>🔥 Minor improvements and bug fixes 🔥</description>
-            <pubDate>Jan, 22nd 2025 15:44:00 +0000</pubDate>
-            <enclosure url="https://testflight.apple.com/join/q2DvGzny" sparkle:version="1.1.5" sparkle:os="ios" />
+            <title>Version 1.2.2</title>
+            <description>⭐️ Minor improvements & bug fixes ⭐️</description>
+            <pubDate>Feb, 4th 2025 09:46:00 +0000</pubDate>
+            <enclosure url="https://testflight.apple.com/join/Cpuazbc6" sparkle:version="1.2.2" sparkle:os="ios" />
         </item>
         
     </channel>
