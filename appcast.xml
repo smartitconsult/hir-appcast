@@ -9,7 +9,7 @@
             <title>Version 2.1.7</title>
             <description>🔥 Minor improvements and bug fixes 🔥</description>
             <pubDate>Oct, 26th 2025 09:27:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="2.0.6" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.houseinrwanda.houseinrwanda" sparkle:version="2.1.7" sparkle:os="android" />
         </item>
 
         <!-- iOS Version -->
@@ -17,7 +17,7 @@
             <title>Version 2.1.7</title>
             <description>🔥 Minor improvements and bug fixes 🔥</description>
             <pubDate>Oct, 26th 2025 09:27:00 +000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/house-in-rwanda/id6478082664" sparkle:version="2.0.6" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/us/app/house-in-rwanda/id6478082664" sparkle:version=2.1.7" sparkle:os="ios" />
         </item>
         
     </channel>
